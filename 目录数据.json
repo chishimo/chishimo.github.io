@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "username": "1276078",
+  "site_base": "https://bgm.tv",
+  "created": [],
+  "collected": [],
+  "created_meta": {
+    "source": "page+timeline",
+    "pages": 1,
+    "fetched_at": "2026-09-27T05:02:20.892Z",
+    "complete": true,
+    "checkpoint_id": "",
+    "empty": true
+  },
+  "collected_meta": {
+    "source": "page+timeline",
+    "pages": 1,
+    "fetched_at": "2026-09-27T05:02:23.936Z",
+    "complete": true,
+    "checkpoint_id": "",
+    "empty": true
+  }
+}
